@@ -14,3 +14,6 @@ Now...........................
 
 Mr.Dibakar Sir is teaching us GIT, MAVEN and JENKINS.
 And we are happy with it
+
+If we do great in the Final assessments, projects
+and BB certification test, we all get deployed to project.
