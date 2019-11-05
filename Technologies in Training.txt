@@ -11,3 +11,6 @@ We got passed in the assessment.
 Then he taught us HTML,CSS,JAVASCRIPT,JQUERY,ANGULAR,SERVLET & JSP and REST services
 in the Web Technology module.
 Now...........................
+
+Mr.Dibakar Sir is teaching us GIT, MAVEN and JENKINS.
+And we are happy with it
